@@ -1,0 +1,8 @@
+name: Custom-Scoreboard
+version: ${project.version}
+main: nl.uwrekening.customscoreboard.Main
+api-version: 1.16
+authors: [UwRekening]
+description: Custom-Scoreboard sickkk
+commands:
+  walkedcommand:
